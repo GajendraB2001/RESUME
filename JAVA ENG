@@ -14,3 +14,35 @@ JAVA RESUME POINTS
 •	Developed custom Ansible playbook and integrated in Jenkins post configuration for setting up the automated build pipeline for GIT repository projects and developed CI/CD system with Jenkins on AWS’s Kubernetes container environment. 
 •	Worked in agile environment using a CI/CD model methodology and Cleaned data and processed third party spending data into maneuverable deliverables within specific formats with Excel macros by using TDD (Test driven development) methodology. 
 •	Involved in various phases of Software Development Life Cycle (SDLC) of the application like Requirement gathering, Design, Analysis and Code development.
+•	Utilized Java's JDBC and Spring JDBC Template to implement SQL injection checks, permission checks, and performance analysis, bolstering the code's security and protecting against potential malicious attacks.
+•	Engineered end-to-end features and functionality, integrating responsive front-end interfaces, robust back-end services, and secure database integration using technologies like React.js HTML5, CSS, JavaScript, Java8, and Spring framework. 
+•	Implemented AWS Lambda functions in Java to trigger shell scripts for data ingestion and export, ensuring scalability and efficient handling of large data volumes without compromising on performance. 
+•	Leveraged Amazon S3's data management capabilities, including versioning and lifecycle policies, to securely store dynamic and static content for web applications, ensuring both data durability and accessibility. 
+•	Created modular UI Microservices to tackle monolithic seed generation challenges. Generated Docker images and deployed them to Kubernetes using Java-based technologies such as Spring Boot.  
+•	Designed and implemented Logstash pipelines to ingest log data from Java applications, parsing and enriching logs for efficient analysis.
+•	Utilized Solr's Data Import Handler to import data from MySQL databases into Apache Solr for search purposes.
+•	Utilized AWS DynamoDB as the key-value and document database to effectively support the workload of the applications, delivering consistent, single-digit millisecond response times at any scale. 
+•	Optimized Amazon CloudWatch for application insights integration to monitor the live web application. This automated the detection of performance anomalies, further enhancing the application's performance and usability. 
+•	Set up monitoring and logging solution using Prometheus and ELK Stack to track the performance and health of Docker containers in production environments & track Solr performance and diagnose issues proactively. 
+•	Managed datasets using Java and an Object-Relational Mapping (ORM) tool like Hibernate. Executed SQL database queries to retrieve information and employed Hibernate for seamless mapping of Java objects to relational databases. 
+•	Rapidly diagnosed and resolved software defects, ensuring timely communication of updates to stakeholders. Enforced Agile development methodologies like Scrum or Kanban for streamlined project management.
+•	Used Ansible to configure and manage the infrastructure. And worked on Jenkins cloud Bees for CI/CD in production environment.
+•	Utilized GitHub repository to submit code changes that are in turn reviewed by the dev leads before they are merged to the branch before production. 
+•	Utilized Java's JDBC and Spring JDBC Template to implement SQL injection checks, permission checks, and performance analysis, bolstering the code's security and protecting against potential malicious attacks.
+•	Engineered end-to-end features and functionality, integrating responsive front-end interfaces, robust back-end services, and secure database integration using technologies like React.js HTML5, CSS, JavaScript, Java8, and Spring framework. 
+•	Implemented AWS Lambda functions in Java to trigger shell scripts for data ingestion and export, ensuring scalability and efficient handling of large data volumes without compromising on performance. 
+•	Leveraged Amazon S3's data management capabilities, including versioning and lifecycle policies, to securely store dynamic and static content for web applications, ensuring both data durability and accessibility. 
+•	Created modular UI Microservices to tackle monolithic seed generation challenges. Generated Docker images and deployed them to Kubernetes using Java-based technologies such as Spring Boot.  
+•	Designed and implemented Logstash pipelines to ingest log data from Java applications, parsing and enriching logs for efficient analysis.
+•	Utilized Solr's Data Import Handler to import data from MySQL databases into Apache Solr for search purposes.
+•	Utilized AWS DynamoDB as the key-value and document database to effectively support the workload of the applications, delivering consistent, single-digit millisecond response times at any scale. 
+•	Optimized Amazon CloudWatch for application insights integration to monitor the live web application. This automated the detection of performance anomalies, further enhancing the application's performance and usability. 
+•	Set up monitoring and logging solution using Prometheus and ELK Stack to track the performance and health of Docker containers in production environments & track Solr performance and diagnose issues proactively. 
+•	Managed datasets using Java and an Object-Relational Mapping (ORM) tool like Hibernate. Executed SQL database queries to retrieve information and employed Hibernate for seamless mapping of Java objects to relational databases. 
+•	Rapidly diagnosed and resolved software defects, ensuring timely communication of updates to stakeholders. Enforced Agile development methodologies like Scrum or Kanban for streamlined project management.
+•	Used Ansible to configure and manage the infrastructure. And worked on Jenkins cloud Bees for CI/CD in production environment.
+•	Utilized GitHub repository to submit code changes that are in turn reviewed by the dev leads before they are merged to the branch before production. 
+
+
+
+

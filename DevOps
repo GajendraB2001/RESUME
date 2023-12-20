@@ -1,0 +1,15 @@
+•	Responsible for design and maintenance of  GIT Repositories, different branching & merging strategies, views, access control
+strategies and Integrated GIT into Jenkins to automate the code check-out process.
+•	Create and maintain highly scalable and fault tolerant multi-tier AWS environments spanning across multiple availability zones using Terraform and CloudFormation. Worked on release management & deployment tools like AWS Code Pipeline, Cloud Formation, AWS Code Deploy. Setting GitLab repository and Runner for build automation.
+•	Integrated Maven with GIT. Build and deployed scripts using ANT and MAVEN as build tools in Jenkins to move from one environment to other environments and also create new jobs and branches through Jenkins.
+•	Configured local Maven repositories and multi-component Ant projects with Nexus repositories and scheduled projects in Jenkins for continuous integration. Continuous Delivery is being enabled through deployment into several environments of Test, QA, Stage and Production using Jenkins.
+•	Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets, EBS and create nightly AMIs for mission-critical production servers as backups. Deployed Elasticsearch with 10 nodes cluster in AWS environment for client applications. Created Python scripts to automate AWS Services which includes ELB, Cloud front, Lambda, database security and application configuration. 
+•	Worked on creation of custom Docker images, tagging and pushing the Images and also creating the Docker containers and Docker consoles for managing the application life cycle.
+•	Designed and developed many First of its kind solutions in the DevOps space like Pipeline as Code, Job as Code, Automated Good Build Promotion, Dockerization.
+•	Configured Kubernetes to deploy scale, load balance, scale and manage Docker containers with multiple name spaced versions. Scheduled, deployed and managed container replicas onto node cluster using Kubernetes and Configured private cloud using Kubernetes that supports DEV, TEST, and PROD environments.
+•	Worked on User, Group creation, monitoring and maintaining log for system status/health using Linux commands. 
+•	Administered Linux servers for several functions including mail server, MySQL database and firewalls in both development and production. 
+•	Designed, implemented, & troubleshooted High available critical applications running on Spark and MySQL database. 
+•	Wrote SQL queries to identify and validate data inconsistencies in data warehouse against source system. Also, optimized and tuned ETL processes & SQL Queries for better performance. 
+•	Developed Ansible playbooks for Splunk in cloud environments with auto scaling for task force initiatives requiring big data analysis. Integrate Splunk with AWS deployment using Puppet to collect data from all database server systems into Splunk.
+•	Worked on Chef for IAAS configuration by writing cookbooks and recipes to automate the actions for virtual and remote resources and nodes. 

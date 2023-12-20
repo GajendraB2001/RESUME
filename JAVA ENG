@@ -1,1 +1,16 @@
 JAVA RESUME POINTS
+•	Created APIs using Java libraries in the Spring framework, allowing the Platform to access asset data. These libraries provided tools for creating RESTful APIs that can handle requests and return responses in a standard format.
+•	Created custom factory service that relies on Angular http injection to make AJAX calls back to a server and used RESTful web services to update and modify data at the server side.
+•	Worked with Atomic Variables and Concurrent Maps as both of the features have been greatly improved with the introduction of lambda expressions and functional programming in the Java 8.
+•	Involved in developing API's and REST API proxy using APIGEE edge and for sending mobile notifications and building highly scalable RESTful web services using Angular.JS.
+•	Implemented data ingestion pipelines to index and synchronize data from various sources (e.g., databases, logs, external APIs) into Apache Solr for real-time or batch processing.
+•	Incorporated Java and Spring framework to write the business logic of the application and interact with Microsoft SQL Server database to store and retrieve relevant data.
+•	Developing Microservices, and creating API's using Java Spring Boot framework using Maven as a build tool and Cassandra as an enterprise level database.
+•	Deployed the backend of the application in a microservices architecture using AWS Lambda and Python. Each microservice handled a specific set of functionalities like managing assets, calculating risks, generating reports, etc. allowing for easier scalability and maintenance of the application.
+•	Responsible for defining the data flow within Hadoop eco system and direct the team in implement them and exported the result set from Hive to Microsoft SQL Server using Shell scripts.
+•	Setup data warehouse using AWS Snowflake to store huge data in order to create Snowflake tables by implementing AWS Lambda for hosting on demand in order to support AWS S3 buckets.
+•	Implemented monitoring and logging solutions using Kafka's built-in metrics and log compaction feature to ensure the software’s performance, and availability and to troubleshoot any issues that may arise.
+•	Utilized Apache Spark for data batching of transformed data to load into data lakes and data warehouses, and custom ETL dataflow managed simultaneously using Hadoop for real-time data stream.
+•	Developed custom Ansible playbook and integrated in Jenkins post configuration for setting up the automated build pipeline for GIT repository projects and developed CI/CD system with Jenkins on AWS’s Kubernetes container environment. 
+•	Worked in agile environment using a CI/CD model methodology and Cleaned data and processed third party spending data into maneuverable deliverables within specific formats with Excel macros by using TDD (Test driven development) methodology. 
+•	Involved in various phases of Software Development Life Cycle (SDLC) of the application like Requirement gathering, Design, Analysis and Code development.

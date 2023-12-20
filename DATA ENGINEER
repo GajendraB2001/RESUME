@@ -11,3 +11,23 @@
 •	Created an on premise CI/CD solution using Jenkins and the Pipeline plugin which uses pipeline as code. Involved in a Docker deployment pipeline for custom application images in the private cloud using Jenkins.
 •	Used Pandas API to put the data as time series and tabular format for east timestamp data manipulation and retrieval. 
 •	Developed a python application for smooth product order and delivery with python on backend side & Angular.js on front-end side along with Django to secure functionality & provide authentication for Rest API, ran it on AWS cloud.
+•	Implemented oracle EDM for migrating data of both the SCADA system and cloud into a single system after defining multiple business rules for different kinds of data and ensured that the source data matched with the destination data.
+•	Scheduled data ingestion, transformations, and reporting processes by Automating data workflows and pipeline using Apache Airflow. 
+•	Designed and implemented Python scripts to extract data from Oracle EDM repositories, transforming it into usable formats for downstream applications. 
+•	Developed RESTful APIs using Python, allowing Oracle EDM to communicate with other applications and systems for real-time data updates and retrieval.
+•	Implemented robust error-handling mechanisms and conducted troubleshooting to identify and resolve issues related to Python-Oracle EDM integration.
+•	Integrated Oracle EDM data with Azure Data Lake Storage for efficient data storage, retrieval, and analytics capabilities.
+•	Utilized Azure Data Factory to automate data extraction, transformation, and loading (ETL) processes, enhancing data management within Oracle EDM.
+•	Orchestrated data pipelines using Azure Data Factory ensuring smooth data flow between Oracle EDM and Azure data repositories.
+•	Generated ETL code in Python to extract data from source using Azure Data Factory, transformed it to match target schema, and loaded into target using Azure Synapse Analytics. Developed ETL pipeline including data auditing, data cleansing, data de-duplication, and data transformations for business analytics using PySpark and Azure blob. 
+•	Wrote end to end data migration scripts and performing data transformation/cleansing using ETL tool. Created and automated ETL processes to pull millions of records from various sources and supporting Decision Analytics to derive consumer behavior.
+•	Performed Data Cleaning, features scaling, features engineering using pandas and NumPy packages in python.
+•	Developing and implementing Spark ETL jobs for various data sources in distributed environment & exposing data to product users via BI visualization tools. Technologies leveraged included PySpark & MySQL
+•	Developed a web-based application using Flask to streamline the fraud detection process for auto insurance claims submitted.
+•	Applied an ensemble of classification models to identify potential fraudulent claims and run models on data queried from data warehouse and subjected them to further investigation by employees. Worked with Billions of records as part of Analytics and Modeling on migration of Data Warehouses from on-prem to cloud to create a data lake.
+•	Automated and streamlined multi-asset enterprise data-transformation-testing through development of Python-powered utilities. Built pipelines for processing data, implementing cloud architecture both for real time and batch processing of application data from multiple data marts in HDFS for analytics.
+•	Involved in development of Web Services using REST API’s for sending and getting data from external interface in JSON format. Conducted POC's on migrating to PySpark & Spark-Streaming using KAFKA to process live data streams. 
+•	Used Informatica to create source/target definitions and sessions to ETL data into staging tables from sources. 
+•	Migrated existing on-premises workloads to AWS. Ingested data from various source(Operational DB, 3rd Party API), stored it as S3 objects in data lake & then used AWS to process ingested datasets until they’re in consumed state.
+•	Implemented a continuous Delivery(CD) pipeline with Jenkins and GitHub, whenever a new GitHub branches are created Jenkins automatically attempts to build a new Docker container from it. 
+

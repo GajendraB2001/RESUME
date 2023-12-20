@@ -18,3 +18,24 @@ Author-Gajendra Bagi
 •	Utilized Git's version tracking capabilities to maintain a comprehensive history of changes to the system, facilitating easier debugging and troubleshooting in case of issues.
 •	Implemented Agile practices like user story estimation, task breakdown, and sprint goal alignment within Python development tasks, ensuring transparency and alignment with team objectives.
 •	Performed unit testing on individual component of the software using PyTest to ascertain if they are fit to use.
+•	Utilized Django's Model-View-Template (MVT) architecture to design and implement the back-end of the system to ensure efficient data handling and separation of concerns.
+•	Designed and developed user interface with frontend technologies like HTML5, CSS3, and Angularjs for better user interaction.
+•	Developed applications leveraging Python.NET, allowing interoperability between C# and Python codebases to harness the functionalities of both languages.
+•	Integrated PostgreSQL as the database management system to efficiently store and manage vast volumes of transactional and historical data, ensuring seamless data retrieval and analysis within the fraud detection system.
+•	Implemented Django REST framework to create API endpoints, facilitating seamless communication between the front-end and back-end components within the fraud detection system. This enabled secure and efficient data exchange, supporting real-time fraud detection and analysis.
+•	Employed Python libraries such as Pandas and NumPy for advanced data manipulation and analytics within a sophisticated system, enhancing the accuracy and effectiveness of fraud detection algorithms
+•	Implemented Jenkins for (CI/CD) pipeline enhancing the system's reliability, scalability, and the speed at which critical fraud detection updates were delivered to production
+•	Worked on Microservices to gather network traffic data from different servers and to access data from different customers. 
+•	Developed and implemented a fraud detection model using Scikit-Learn's algorithms, achieving a 95% detection rate while maintaining a low false-positive rate of 2%.
+•	Developed Python-based custom controllers and operators to extend OpenShift's functionalities via CRDs, automating management and orchestration of custom resources within clusters.
+•	Utilized Amazon S3 as a cost-effective and scalable storage solution for storing and managing various datasets used in training machine learning models and storing application assets.
+•	Implemented AWS Lambda functions to trigger specific actions based on fraud detection outcomes, enhancing the application's real-time response to potential fraudulent behavior.
+•	Implemented AWS IAM policies and roles to ensure secure access control and compliance with security best practices, safeguarding sensitive financial data.
+•	employed MongoDB for handling unstructured data and enabling fast and efficient retrieval of customer information.
+•	Implemented Kafka Streams for real-time data analysis, allowing the system to identify fraudulent patterns and anomalies as they occur, resulting in a 25% reduction in fraud losses.
+•	Utilized PySpark for big data processing and analytics, empowering the system to handle large-scale data and also utilizing its machine learning algorithms for clustering and segmentation of investment portfolios.
+•	Effectively utilized Docker for containerization in conjunction with integrated Kubernetes within the financial fraud detection system, streamlining the deployment process and ensuring consistent environments for each microservice, bolstering the system's ability to respond to evolving fraud threats with agility and precision.
+•	Utilized Git's version tracking capabilities to maintain a comprehensive history of changes to the system, facilitating easier debugging and troubleshooting in case of issues.
+•	Utilized Agile project management tools such as Jira and Trello to manage Python development tasks, track progress, and facilitate communication and collaboration among team members.
+•	Worked on unit testing tool PyUnit for preventing bugs, reducing development cost and to further improve the performance.
+

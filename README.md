@@ -1,5 +1,5 @@
 # RESUME
-All the technical resume points related to SDLC (python)
+python
 Author-Gajendra Bagi
 •	Designed and developed user interface with frontend technologies like HTML5, CSS3, JavaScript, and react for better user interaction.
 •	Designed and implemented a comprehensive system using Django web framework, to provide information about the number of visitors to a website and the number of page views.
